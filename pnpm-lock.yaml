@@ -1,5 +1,9 @@
 lockfileVersion: '6.0'
 
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
 dependencies:
   '@apollo/client':
     specifier: ^3.6.9
@@ -44,8 +48,8 @@ dependencies:
     specifier: ^16.6.0
     version: 16.6.0
   lucide-react:
-    specifier: ^0.187.0
-    version: 0.187.0(react@18.2.0)
+    specifier: ^0.436.0
+    version: 0.436.0(react@18.2.0)
   next:
     specifier: 13.1.5
     version: 13.1.5(react-dom@18.2.0)(react@18.2.0)
@@ -2660,10 +2664,10 @@ packages:
       yallist: 4.0.0
     dev: true
 
-  /lucide-react@0.187.0(react@18.2.0):
-    resolution: {integrity: sha512-+k/2djo5opeq22Bb68sA0rjQbI3ToC3nNmsHmaahJ+/6EF2dbWcJ4eWzQZe/97dxndUQ6F2/VqvVXmKHACFnfw==}
+  /lucide-react@0.436.0(react@18.2.0):
+    resolution: {integrity: sha512-N292bIxoqm1aObAg0MzFtvhYwgQE6qnIOWx/GLj5ONgcTPH6N0fD9bVq/GfdeC9ZORBXozt/XeEKDpiB3x3vlQ==}
     peerDependencies:
-      react: ^16.5.1 || ^17.0.0 || ^18.0.0
+      react: ^16.5.1 || ^17.0.0 || ^18.0.0 || ^19.0.0-rc
     dependencies:
       react: 18.2.0
     dev: false
