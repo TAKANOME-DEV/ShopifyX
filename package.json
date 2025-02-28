@@ -75,7 +75,7 @@
     "react-is": "^18.2.0",
     "tailwindcss": "^3.1.8",
     "tailwindcss-animate": "^1.0.5",
-    "typescript": "5.0.4"
+    "typescript": "5.8.2"
   },
   "peerDependencies": {
     "eslint-plugin-html": "^7.0.0",
