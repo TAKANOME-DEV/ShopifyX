@@ -51,7 +51,7 @@
     "@playwright/test": "^1.27.1",
     "@tailwindcss/forms": "^0.5.3",
     "@types/apollo-upload-client": "^17.0.2",
-    "@types/node": "18.16.0",
+    "@types/node": "18.19.79",
     "@types/nprogress": "^0.2.0",
     "@types/react": "18.0.34",
     "@types/react-dom": "18.0.11",
